@@ -1,0 +1,60 @@
+# Peterparker69、Yojiro Noda – Hey phone
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+20 gb 大きい cloud
+詰めろ funny 'bout
+That day おどけていたり 些細な会話
+You don't really think about me
+愛想のない笑い
+1人じゃ使えない one hour
+You are full-time, but I'm alright「あとでね」
+(Hey, boy ないんだね some time)
+選びたい甘くないチョコレート
+(Okay ほら dollar, dollar bill, yeah)
+大人かい?わからない I don't care
+(言う間に言う間に消えちゃうベイベー)
+If you, if you've got some time (if you)
+Everything 前より complicated 絡み合ってとれない有線
+あれがあーでこーだったね '22 に問う
+どうしたらいいって Hasta la vista
+I saw カバン底割れたビスケット
+会ったら見して 待ってる surprise for the weekend
+Hey, mama, do you remember her?
+Hey, mama, don't you remember him?
+Hey, mama, do you remember her?
+Hey, mama, don't you remember him?
+I spent some time キリないくらい
+(Hey, mama, don't you remember him?)
+Before you go 言ってよ bye, bye
+(Hey, mama, do you remember her?)
+あなたの 涙は 僕には ひときわ 痛くて 苦くて
+できれば 敵には 知られたくないな この 弱点は
+君の願うストーリー とは違う方に
+きちゃったけど どうにかこうにか
+思い出増えたところで
+どこまで行っても僕らは一人
+それがせめてもの慰めなのかもしれない
+いつかちゃんとサヨナラが 言えるように
+大抵大丈夫にはできてる 死ぬわけでもないし
+I don't care if you're in lowkey 呑気
+"Hold me"とか言えたらいいのに
+そのひと言が遠い呪文のように 溶けて消えてく
+I can hear my pain
+Singing in my brain
+I can hear my pain
+たまんないな
+Hey, mama, do you remember her?
+Hey, mama, don't you remember him?
+Hey, mama, do you remember her?
+Hey, mama, don't you remember him?
+I spent some time キリないくらい
+(Hey, mama, don't you remember him?)
+Before you go 言ってよ bye, bye
+(Hey, mama, do you remember her?)
+Can we be together?
+Like we used to be ふざけた
+たまにたまにじゃ足りないわ
+Can we talk forever?
+```
