@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "Hey phone",
+  "base_artist": "Peterparker69、Yojiro Noda",
+  "createdAt": "2025-12-01T09:49:43.648924Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hey phone",
+      "artist": "Peterparker69",
+      "has_synced": false,
+      "path": "select/01_Hey_phone_Peterparker69.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Hey phone",
+      "artist": "Peterparker69, 野田洋次郎",
+      "has_synced": false,
+      "path": "select/pl_01_Hey_phone_Peterparker69,_野田洋次郎.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Hey phone",
+      "artist": "Peterparker69, 野田洋次郎",
+      "has_synced": false,
+      "path": "select/pl_02_Hey_phone_Peterparker69,_野田洋次郎.txt"
+    }
+  ]
+}
